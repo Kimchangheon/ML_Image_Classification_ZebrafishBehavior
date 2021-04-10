@@ -4,20 +4,32 @@
 수집된 이미지 총 2793장
 
 control : 1001
+
 sc : 126
+
 10ppm : 40
+
 100ppm : 42
+
 200ppm : 39
+
 BIT0.01 : 164
+
 BIT0.1 : 159
+
 BIT1 : 127
+
 pb0.1 : 759
+
 Pb0.5 : 112
+
 bpa0.01 : 74
+
 bpa0.1 : 82
+
 bpa1 : 68
 
-Hierarchical Clustering 결과
+# Hierarchical Clustering 결과
 ![image](https://user-images.githubusercontent.com/39324421/114260296-de9d4300-9a0e-11eb-8870-8bb6a5e1d144.png)
 
 # Cluster 1
