@@ -1,3 +1,16 @@
+# 목적: 행동 tracking data 분석용 CNN 모델 구축
+
+Step1: 행동 tracking data 사용
+
+Step2: Tracking 이미지를 이용하여 CNN 모델 구축
+
+Step3: 이미지를 분석하여 행동 저하 판단
+
+Step4: Tracking 이미지를 이용한 독성평가 모델 구축
+
+![image](https://user-images.githubusercontent.com/39324421/116811044-26cd0280-ab82-11eb-9154-51ec3e1a9deb.png)
+
+
 # ML_Image_Classification_ZebrafishBehavior
 실험을 통해 얻은 제브라피쉬 행동데이터 이미지로 머신러닝 분류모델 생성
 
